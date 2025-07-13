@@ -3,9 +3,10 @@
 
 <div  align="center">
   
- ![Image](https://github.com/user-attachments/assets/c240b4b3-3595-41ee-a19c-8096e0e6f0d6)
+ <img src= "https://github.com/user-attachments/assets/807a01b2-bc84-4a19-8bd4-672602fa9387" width= "900px"/>
 </div>
 
+<br>
 <p align="center">
   🚀 Desenvolvedor Front-End em construção <br>
   💡 Criando interfaces com <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong> <br>
