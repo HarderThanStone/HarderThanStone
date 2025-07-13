@@ -3,7 +3,7 @@
 
 <div  align="center">
   
-  ![Image](https://github.com/user-attachments/assets/fe20fe4a-3178-497d-9eb4-da5854b9de52)
+ ![Image](https://github.com/user-attachments/assets/c240b4b3-3595-41ee-a19c-8096e0e6f0d6)
 </div>
 
 <p align="center">
