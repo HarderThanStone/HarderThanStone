@@ -1,3 +1,4 @@
+
 <h1 align="center">👋 Olá! Eu sou o HarderThanStone</h1>
 <br>
 
@@ -32,15 +33,11 @@
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarderThanStone&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="460px"/>
-</p>
+![Estatísticas do GitHub de HarderThanStone](https://github-readme-stats.vercel.app/api?username=HarderThanStone&show_icons=true&theme=dark&locale=pt-br)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarderThanStone&layout=compact&theme=github_dark&hide_border=true" width="460px"/>
-</p>
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=HarderThanStone&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
