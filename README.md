@@ -37,8 +37,6 @@
 <div  align="center">
   
 ![Estatísticas do GitHub de HarderThanStone](https://github-readme-stats.vercel.app/api?username=HarderThanStone&show_icons=true&theme=dark&locale=pt-br)
-
-
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=HarderThanStone&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
