@@ -1,6 +1,5 @@
 
 <h1 align="center">👋 Olá! Eu sou o HarderThanStone</h1>
-<br>
 
 <p align="center">
   🚀 Desenvolvedor Front-End em construção <br>
