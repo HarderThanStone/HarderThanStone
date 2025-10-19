@@ -2,11 +2,6 @@
 <h1 align="center">👋 Olá! Eu sou o HarderThanStone</h1>
 <br>
 
-<div  align="center">
-  
- <img src= "https://github.com/user-attachments/assets/807a01b2-bc84-4a19-8bd4-672602fa9387" width= "900px"/>
-</div>
-
 <br>
 <p align="center">
   🚀 Desenvolvedor Front-End em construção <br>
