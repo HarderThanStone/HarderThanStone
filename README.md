@@ -2,13 +2,13 @@
 <h1 align="center">👋 Olá! Eu sou o HarderThanStone</h1>
 <br>
 
-<br>
 <p align="center">
   🚀 Desenvolvedor Front-End em construção <br>
   💡 Criando interfaces com <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong> <br>
   🛠️ Aprendendo todos os dias, errando e evoluindo
 </p>
 
+<br> 
 ---
 
 ## 🛠️ Tecnologias que uso
