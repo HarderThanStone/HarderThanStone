@@ -8,7 +8,7 @@
 </p>
 
 <br> 
----
+
 
 ## 🛠️ Tecnologias que uso
 
